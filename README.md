@@ -1,40 +1,43 @@
 # Alfonso Monge | Energy Engineer ⚡
 
 Graduado en Ingeniería de la Energía por la Universidad de Sevilla. 
-En la intersección entre la estabilidad física del sistema y la lógica del código.
+Especializado en el análisis de estabilidad, resiliencia y monitorización de sistemas eléctricos de potencia.
 
-### 🏛️ La Ingeniería como Dialéctica
-Entiendo la red eléctrica como un organismo vivo en tensión constante:
-* **Quijotizarse:** La búsqueda de la arquitectura técnica perfecta y la resiliencia absoluta del sistema.
-* **Sanchificarse:** El pragmatismo necesario para que los algoritmos corran, los activos se gestionen y la frecuencia no caiga hoy.
+### 🛠️ Áreas de Especialización Técnica
+
+* **Estabilidad de Red:** Análisis de la respuesta de frecuencia ante la penetración de generación no síncrona.
+* **Control de Sistemas:** Estimación de Inercia Síncrona y cálculo de **ROCOF** (Rate of Change of Frequency).
+* **Análisis de Datos Energéticos:** Integración y procesamiento de datos procedentes de **ESIOS (REE)** y **OMIE**.
+* **Desarrollo de Software Industrial:** Construcción de herramientas de monitorización de alta fidelidad (Vite, React, Node.js).
 
 ---
 
-### 🛠️ Proyectos de Monitorización y Control
+### 🚀 Proyectos Destacados
 
 #### [Iberian Grid Resilience Monitor](https://github.com/Alfonsomongee/iberian-grid-monitor)
-*Desarrollo de un dashboard de alta fidelidad para el análisis de estabilidad del Sistema Ibérico.*
-- **Core:** Estimación de **Inercia Síncrona** y cálculo predictivo de **ROCOF** ante alta penetración de renovables.
-- **Data:** Integración mediante API de indicadores críticos de **ESIOS (REE)** y **OMIE**.
-- **Stack:** Vite + React 19 + Recharts + Express Proxy.
+*Plataforma de monitorización en tiempo real para el Sistema Eléctrico Ibérico.*
+- **Objetivo:** Visualización del estrés estructural de la red basándose en la relación de generación síncrona vs. asíncrona.
+- **Base Técnica:** Lógica de cálculo basada en escenarios de contingencia (estudio del cero de tensión de 2025).
+- **Stack:** React 19, Tailwind CSS v4, Recharts, API REST Integration.
 
-#### EcoDespensa
-*Gestión inteligente de inventarios.*
-- Aplicación de lógica de ingeniería a la optimización de recursos domésticos.
-
----
-
-### 📊 Áreas de Análisis Técnico
-
-* **Resiliencia de Redes:** Estabilidad de frecuencia y tensión en sistemas con electrónica de potencia dominante.
-* **Macroeconomía Energética:** Análisis de megatendencias, activos digitales (BTC/ETH) y su impacto en la demanda estructural de energía.
-* **Filosofía Técnica:** Análisis de la técnica desde una perspectiva existencialista. La ingeniería no solo como oficio, sino como respuesta al absurdo a través del orden.
-
-### 🛠️ Toolstack
-`React` `Node.js` `TailwindCSS` `Git` `Python` `Cálculo Eléctrico`
+#### [EcoDespensa](https://github.com/Alfonsomongee/ecodespensa)
+*Optimización y gestión de inventarios.*
+- Aplicación de algoritmos de gestión de recursos y control de stock.
 
 ---
 
-> "La vida es una serie de colisiones con el futuro; no es una suma de lo que hemos sido, sino de lo que anhelamos ser." — Ortega y Gasset (aplicado a la previsión de demanda).
+### 💻 Stack Tecnológico e Ingeniería
 
-📫 **Contacto:** [LinkedIn](TU_LINK_DE_LINKEDIN) | Sevilla, España.
+| Dominio | Tecnologías |
+| :--- | :--- |
+| **Ingeniería** | Análisis de Redes, Cálculo Eléctrico, Simulación de Sistemas |
+| **Software** | JavaScript (ES6+), React, Node.js, Express, Python |
+| **Herramientas** | Git/GitHub, Tailwind CSS, SQL, Entornos de ejecución de Agentes IA |
+
+---
+
+### 📈 Estadísticas de Desarrollo
+![Estadísticas de Alfonso](https://github-readme-stats.vercel.app/api?username=Alfonsomongee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsomongee&layout=compact&theme=tokyonight&hide_langs=html&hide_border=true)
+
+📫 **Contacto:** [LinkedIn] https://www.linkedin.com/in/alfonso-monge-diaz-angel-971941277/ | Sevilla, España.
