@@ -1,16 +1,40 @@
-# Hola, soy Alfonso Monge ⚡
+# Alfonso Monge | Energy Engineer ⚡
 
-**Graduado en Ingeniería de la Energía | Universidad de Sevilla**
+Graduado en Ingeniería de la Energía por la Universidad de Sevilla. 
+En la intersección entre la estabilidad física del sistema y la lógica del código.
 
-Me muevo en la tensión constante entre "Quijotizarse" (la visión idealista de sistemas perfectos) y "Sanchificarse" (el pragmatismo de que el código y la red eléctrica funcionen hoy). 
+### 🏛️ La Ingeniería como Dialéctica
+Entiendo la red eléctrica como un organismo vivo en tensión constante:
+* **Quijotizarse:** La búsqueda de la arquitectura técnica perfecta y la resiliencia absoluta del sistema.
+* **Sanchificarse:** El pragmatismo necesario para que los algoritmos corran, los activos se gestionen y la frecuencia no caiga hoy.
 
-### 🛠️ En qué estoy trabajando:
-- **Monitor de Resiliencia del Sistema Ibérico:** Una herramienta de alta densidad analítica para monitorizar la inercia síncrona y el riesgo de ROCOF ante la penetración de renovables.
-- **EcoDespensa:** Gestión inteligente de inventarios domésticos.
+---
 
-### 📊 Intereses de ingeniería y más allá:
-- Estabilidad y resiliencia de sistemas eléctricos (ESIOS/OMIE).
-- Macroeconomía estructural y activos digitales (BTC/ETH).
-- Filosofía existencialista y la Generación del 98.
+### 🛠️ Proyectos de Monitorización y Control
 
-> "Aquel que tiene un porqué para vivir se puede enfrentar a todos los 'cómos'." — Nietzsche (pero aplicado a que no se caiga la red eléctrica).
+#### [Iberian Grid Resilience Monitor](https://github.com/Alfonsomongee/iberian-grid-monitor)
+*Desarrollo de un dashboard de alta fidelidad para el análisis de estabilidad del Sistema Ibérico.*
+- **Core:** Estimación de **Inercia Síncrona** y cálculo predictivo de **ROCOF** ante alta penetración de renovables.
+- **Data:** Integración mediante API de indicadores críticos de **ESIOS (REE)** y **OMIE**.
+- **Stack:** Vite + React 19 + Recharts + Express Proxy.
+
+#### EcoDespensa
+*Gestión inteligente de inventarios.*
+- Aplicación de lógica de ingeniería a la optimización de recursos domésticos.
+
+---
+
+### 📊 Áreas de Análisis Técnico
+
+* **Resiliencia de Redes:** Estabilidad de frecuencia y tensión en sistemas con electrónica de potencia dominante.
+* **Macroeconomía Energética:** Análisis de megatendencias, activos digitales (BTC/ETH) y su impacto en la demanda estructural de energía.
+* **Filosofía Técnica:** Análisis de la técnica desde una perspectiva existencialista. La ingeniería no solo como oficio, sino como respuesta al absurdo a través del orden.
+
+### 🛠️ Toolstack
+`React` `Node.js` `TailwindCSS` `Git` `Python` `Cálculo Eléctrico`
+
+---
+
+> "La vida es una serie de colisiones con el futuro; no es una suma de lo que hemos sido, sino de lo que anhelamos ser." — Ortega y Gasset (aplicado a la previsión de demanda).
+
+📫 **Contacto:** [LinkedIn](TU_LINK_DE_LINKEDIN) | Sevilla, España.
